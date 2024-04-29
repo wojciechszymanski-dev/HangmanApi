@@ -1,6 +1,6 @@
 @HangmanApi_HostAddress = http://localhost:5182
 
-GET {{HangmanApi_HostAddress}}/weatherforecast/
+GET {{HangmanApi_HostAddress}}/randomword/
 Accept: application/json
 
 ###

@@ -38,7 +38,7 @@ app.MapGet("/randomword", (string lang) =>
             var polishRandomIndex = random.Next(0, polishWords.Length);
             return polishWords[polishRandomIndex];
         default:
-            throw new ArgumentException("Invalid language specified. Please use 'english' or 'polish'.");
+            throw new ArgumentException("Invalid language specified. Please use 'eng' or 'pl'.");
     }
 })
 .WithName("GetRandomWord")

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HangmanApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc9fbcea0feacfd0a62174188f3b3e79f74ffaa0")]
 [assembly: System.Reflection.AssemblyProductAttribute("HangmanApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HangmanApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
